@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently a student from Kolkata studying MCA from Heritage Institute of Technology, Kolkata
+Hi 👋, I'm Ankan Panda. Nice to meet you.
+I'm currently a MCA student from Kolkata
 
 
 ## 🌐 Socials:
